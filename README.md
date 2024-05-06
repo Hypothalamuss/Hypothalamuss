@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hypothalamuss
 - 👀 I’m interested in front end + backend enginering 
-- 🌱 I’m currently learning c++
 
 
 
